@@ -1,3 +1,7 @@
+# MERN-NETFLIX-CLONE
+
+<a href="https://mern-netflix-clone-5xiw.onrender.com/">Click Here</a>
+
 -   ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind
 -   🔐 Authentication with JWT
 -   📱 Responsive UI
