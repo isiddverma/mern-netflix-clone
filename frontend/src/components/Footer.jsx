@@ -13,7 +13,7 @@ const Footer = () => {
 					</a>
 					. The source code is available on{" "}
 					<a
-						href='https://github.com/isiddverma'
+						href='https://github.com/isiddverma/mern-netflix-clone'
 						target='_blank'
 						rel='noreferrer'
 						className='font-medium underline underline-offset-4'
